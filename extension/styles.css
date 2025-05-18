@@ -1,0 +1,27 @@
+body {
+    width: 250px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.safe {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.phishing {
+    background-color: #f8d7da;
+    color: #721c24;
+}
